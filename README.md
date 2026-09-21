@@ -1,233 +1,206 @@
 <div align="center">
 
-<!-- ===================== HERO ===================== -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=30&duration=2600&pause=900&color=00F7FF&center=true&vCenter=true&repeat=true&width=900&lines=Hi%2C+I'm+Vikram+Singh+%F0%9F%91%8B;Full-Stack+Developer+%7C+Problem+Solver;Building+Ideas+into+Reality+%F0%9F%9A%80" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=30&duration=2500&pause=700&color=00F7FF&center=true&vCenter=true&repeat=true&width=900&lines=%F0%9F%91%8B+Hey%2C+I'm+Vikram+Singh;B.Tech+CSE+%7C+Full-Stack+Developer;Web+Developer+%7C+Problem+Solver;Building+%E2%80%A2+Learning+%E2%80%A2+Experimenting+%E2%80%A2+Growing" />
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=230&section=header&text=VIKRAM%20SINGH&fontSize=58&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=FULL-STACK%20%7C%20WEB%20DEVELOPER%20%7C%20BUILDER&descAlignY=62&descSize=19&color=0:0500FF,35:7F00FF,70:00C6FF,100:00F7A0" width="100%"/>
-
-<img src="https://komarev.com/ghpvc/?username=vikramsingh617&style=for-the-badge&color=00f7ff&label=PROFILE+VIEWS" />
-
-<br><br>
-
-<img src="https://img.shields.io/badge/Status-Building%20%26%20Learning-00F7FF?style=for-the-badge&logo=rocket&logoColor=white" />
-<img src="https://img.shields.io/badge/Focus-Full--Stack-7F00FF?style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/Location-India-FF00A8?style=for-the-badge&logo=googlemaps&logoColor=white" />
-
-<br><br>
-
-<a href="https://github.com/vikramsingh617"><img src="https://img.shields.io/github/followers/vikramsingh617?style=for-the-badge&logo=github&label=FOLLOWERS&color=181717" /></a>
-<a href="https://github.com/vikramsingh617?tab=repositories"><img src="https://img.shields.io/badge/REPOSITORIES-EXPLORE-00C6FF?style=for-the-badge&logo=github" /></a>
-<a href="https://www.linkedin.com/in/vikramsingh617/"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin" /></a>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=170&section=header&animation=fadeIn&color=0:050505,35:171717,70:3b0764,100:00c6ff" width="100%"/>
 
 </div>
-
-🌌 About Me
-
-<div align="center">
 
 <table>
 <tr>
-<td width="52%">
-
-👨‍💻 Who am I?
-
-name: Vikram Singh
-education: B.Tech CSE
-role: Student Developer
-interests:
-  - Full-Stack Development
-  - Artificial Intelligence
-  - Machine Learning
-  - Software Projects
-currently:
-  - Building practical applications
-  - Learning modern technologies
-  - Improving problem solving
-mindset: "Learn → Build → Improve"
-
-</td>
-<td width="48%">
-
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" />
-
-</td>
-</tr>
-</table>
-
-</div>
+<td width="27%" valign="top">
 
 <div align="center">
 
-🚀 I don't just learn technology — I try to turn what I learn into something people can actually use.
+<!-- Optional: uncomment this if you want your GitHub profile photo here -->
+
+<!-- <img src="https://github.com/vikramsingh617.png" width="150" style="border-radius:50%;"> -->
+
+Vikram Singh
+
+@vikramsingh617
+
+Full-Stack Developer
+Problem Solver
+Building Ideas into Reality
+
+<br>
+
+<a href="https://github.com/vikramsingh617">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/vikramsingh617/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
 </div>
 
-⚡ Current Mission
+🏫 Education
+
+B.Tech — Computer Science & Engineering
+Lovely Professional University
+
+💻 Focus
+
+Frontend
+Backend
+REST APIs
+Databases
+Deployment
+
+🚀 Building
+
+Web Applications
+Full-Stack Projects
+Developer Tools
+
+</td>
+
+<td width="73%" valign="top">
+
+🌟 About Me
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=2500&pause=700&color=00F7FF&center=true&vCenter=true&width=850&lines=%F0%9F%8C%90+Build+modern+web+applications;%F0%9F%A4%96+Explore+AI+%26+Machine+Learning;%F0%9F%94%A5+Create+better+projects+every+week;%F0%9F%A7%A0+Turn+ideas+into+working+products" />
+🎓 B.Tech CSE Student
+
+💻 Building creative solutions with Full-Stack Web Development
+
+🌱 Always curious about emerging technologies
+
+🎧 Coding sessions powered by good music
+
+🌎 Always learning, always improving, always curious
+
+🤝 Let's connect and build something awesome together!
 
 </div>
 
-🧰 My Tech Universe
+🚀 Tech Stack
 
 💻 Programming Languages
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,ts,html,css,bash&perline=9" />
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-E76F00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111111"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 </p>
 
-⚛️ Frameworks & Development
+⚛️ Frameworks, Platforms & Libraries
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind&perline=8" />
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
 </p>
 
 🗄️ Databases
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,prisma,supabase&perline=6" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white"/>
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=111111"/>
 </p>
 
-🤖 AI / Machine Learning
+🛠️ Tools & Services
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow&perline=6" />
-<br><br>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
-<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=111111"/>
-</p>
-
-🛠️ Tools & Platforms
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,docker,postman,vercel,vscode,notion&perline=8" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
 </p>
 
 🖥️ Workspace
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=windows,linux,kali,apple&perline=6" />
+<img src="https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=111111"/>
+<img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white"/>
 </p>
 
-🚀 Featured Project
+📊 Stats & Activity
+
+<div align="center">
+
+<img src="./profile/stats.svg" width="48%" alt="GitHub Stats"/>
+<img src="./profile/top-langs.svg" width="48%" alt="Top Languages"/>
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com?user=vikramsingh617&theme=tokyonight&hide_border=true&border_radius=12" width="72%" alt="GitHub Streak"/>
+
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=vikramsingh617&bg_color=0d1117&color=00f7ff&line=7f00ff&point=00f7a0&area=true&hide_border=true" width="100%" alt="Activity Graph"/>
+
+</div>
+
+🚀 Featured Projects
 
 <div align="center">
 
 <a href="https://github.com/vikramsingh617/loanadvisor">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=vikramsingh617&repo=loanadvisor&theme=tokyonight&hide_border=true&show_owner=true" />
+
+<img src="./profile/loanadvisor.svg" width="82%" alt="LoanAdvisor"/>
+
 </a>
-
-<br><br>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2500&pause=700&color=00F7FF&center=true&vCenter=true&width=700&lines=%F0%9F%92%B0+LoanAdvisor;%F0%9F%A4%96+Full-stack+loan+advisory;%F0%9F%93%8A+Interactive+dashboard;%F0%9F%94%90+Authentication;%E2%9A%A1+Modern+web+experience" />
 
 </div>
 
 💰 LoanAdvisor
 
-An Full-stack loan advisory project with a modern dashboard, authentication, charts and financial visualization.
+Full-stack loan advisory platform with a modern dashboard and user-focused interface.
 
-Core highlights
+Stack: React Node.js Express.js MongoDB JavaScript
 
-📊 Interactive charts & dashboard
-
-🔐 Authentication
-
-🤖 AI-based advisory / prediction features
-
-📈 Financial visualization
-
-⚡ Responsive modern UI
+Features: Dashboard • Authentication • Data Visualization • Loan Advisory • Responsive UI
 
 🔗 Repository: https://github.com/vikramsingh617/loanadvisor
-
-🌱 Other Project
+🌐 Live: https://loanadvisor-seven.vercel.app/dashboard
 
 ♿ Inclusive Education
 
-An education-focused project aimed at creating a more accessible learning ecosystem.
+A web-based education project focused on building an accessible and inclusive learning ecosystem.
 
-Stack: Node.js • Express • MongoDB • React
-
-📊 GitHub Command Center
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=vikramsingh617&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&rank_icon=github" width="49%" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikramsingh617&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" width="49%" />
-
-<br><br>
-
-<img src="https://streak-stats.demolab.com?user=vikramsingh617&theme=tokyonight&hide_border=true&border_radius=15" width="72%" />
-
-</div>
-
-📈 Contribution Matrix
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=vikramsingh617&bg_color=0d1117&color=00f7ff&line=7f00ff&point=00f7a0&area_color=7f00ff&area=true&hide_border=true&custom_title=Vikram's%20Contribution%20Activity" width="100%" />
-
-</div>
-
-🏆 Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=vikramsingh617&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=2&column=4" width="95%" />
-
-</div>
-
-🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Contribution Snake" width="95%" />
-
-</div>
-
-Note: If the snake image does not appear immediately, it needs the GitHub Actions workflow that generates it. I can give you that workflow too.
-
-🧠 Developer Mode
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=2500&pause=700&color=7F00FF&center=true&vCenter=true&width=800&lines=while(alive)%7B+learn()%3B+build()%3B+improve()%3B+%7D;%3Ccode%3E+%3D%3E+%3Ccoffee%3E+%3D%3E+%3Cdebug%3E+%3D%3E+%3Crepeat%3E;%F0%9F%94%A5+Consistency+beats+motivation.;%F0%9F%9A%80+Build+something+worth+showing." />
-
-<br><br>
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="85%" />
-
-</div>
+Stack: React Node.js Express.js MongoDB
 
 🤝 Let's Connect
 
 <div align="center">
 
 <a href="https://github.com/vikramsingh617">
-<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github"/>
 </a>
 
 <a href="https://www.linkedin.com/in/vikramsingh617/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
 </a>
-
-</div>
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=21&duration=2500&pause=700&color=00F7FF&center=true&vCenter=true&width=750&lines=%F0%9F%8C%9F+Thanks+for+visiting+my+profile!;%F0%9F%92%BB+Keep+coding.+Keep+building.;%F0%9F%9A%80+Let's+build+something+awesome+together!" />
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=170&section=footer&animation=twinkling&color=0:00F7FF,40:7F00FF,70:FF00A8,100:00F7A0" width="100%"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&repeat=true&width=800&lines=Let's+build+something+awesome+%F0%9F%9A%80;Code+%7C+Build+%7C+Deploy+%7C+Repeat"/>
+
+</div>
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&animation=fadeIn&color=0:00F7FF,50:7F00FF,100:FF00A8" width="100%"/>
 
 </div>
