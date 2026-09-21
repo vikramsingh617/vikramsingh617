@@ -2,7 +2,7 @@
 
 <!-- ===================== HERO ===================== -->
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=30&duration=2500&pause=700&color=00F7FF&center=true&vCenter=true&repeat=true&width=900&lines=%F0%9F%91%8B+Hey%2C+I'm+Vikram+Singh;B.Tech+CSE+%7C+Full-Stack+Developer%7C+Problem+Solver;Building+%E2%80%A2+Learning+%E2%80%A2+Experimenting+%E2%80%A2+Growing" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=30&duration=2500&pause=700&color=00F7FF&center=true&vCenter=true&repeat=true&width=900&lines=%F0%9F%91%8B+Hey%2C+I'm+Vikram+Singh;B.Tech+CSE+%7C+Full-Stack+Developer;Web+Developer+%7C+Problem+Solver;Building+%E2%80%A2+Learning+%E2%80%A2+Experimenting+%E2%80%A2+Growing" />
 
 <br>
 
@@ -40,7 +40,6 @@ role: Student Developer
 interests:
   - Full-Stack Development
   - Software Projects
-  - Web Applications
 currently:
   - Building practical applications
   - Learning modern web technologies
@@ -72,6 +71,10 @@ mindset: "Learn → Build → Improve"
 
 </div>
 
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=1200&pause=250&color=7F00FF&center=true&vCenter=true&repeat=true&width=950&lines=React+%E2%86%92+Next.js+%E2%86%92+Node.js+%E2%86%92+Express+%E2%86%92+MongoDB;HTML+%E2%86%92+CSS+%E2%86%92+JavaScript+%E2%86%92+TypeScript;Git+%E2%86%92+GitHub+%E2%86%92+Vercel+%E2%86%92+Production"/>
+</div>
+
 🧰 My Tech Universe
 
 💻 Programming Languages
@@ -95,9 +98,7 @@ mindset: "Learn → Build → Improve"
 🌐 Full-Stack Development
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind&perline=6" />
-<br><br>
-<img src="https://skillicons.dev/icons?i=git,github,docker,postman,vercel,vscode&perline=6" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind&perline=8" />
 </p>
 
 🛠️ Tools & Platforms
@@ -112,6 +113,10 @@ mindset: "Learn → Build → Improve"
 <img src="https://skillicons.dev/icons?i=windows,linux,kali,apple&perline=6" />
 </p>
 
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&duration=1300&pause=300&color=00F7A0&center=true&vCenter=true&repeat=true&width=900&lines=%24+npm+run+dev;%24+git+add+.+%26%26+git+commit;%24+git+push;%24+vercel+deploy;%24+BUILD+%7C+SHIP+%7C+REPEAT"/>
+</div>
+
 🚀 Featured Project
 
 <div align="center">
@@ -122,7 +127,7 @@ mindset: "Learn → Build → Improve"
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2200&pause=900&color=00F7FF&center=true&vCenter=true&width=700&lines=%F0%9F%92%B0+LoanAdvisor;%F0%9F%92%BB+Full-stack+loan+advisory;%F0%9F%93%8A+Interactive+dashboard;%F0%9F%94%90+Authentication;%E2%9A%A1+Modern+web+experience" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2200&pause=900&color=00F7FF&center=true&vCenter=true&width=700&lines=%F0%9F%92%B0+LoanAdvisor;%F0%9F%A4%96+Full-stack+loan+advisory;%F0%9F%93%8A+Interactive+dashboard;%F0%9F%94%90+Authentication;%E2%9A%A1+Modern+web+experience" />
 
 </div>
 
@@ -136,7 +141,7 @@ Core highlights
 
 🔐 Authentication
 
-🤖 Full-stack advisory / prediction features
+🧩 Loan advisory features
 
 📈 Financial visualization
 
@@ -151,6 +156,10 @@ Core highlights
 An education-focused project aimed at creating a more accessible learning ecosystem.
 
 Stack: Node.js • Express • MongoDB • React
+
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=1200&pause=250&color=00F7FF&center=true&vCenter=true&repeat=true&width=950&lines=%5B+SYSTEM+ONLINE+%5D;%5B+GITHUB+DATA+SYNC+%5D;%5B+REPOSITORIES+SCANNED+%5D;%5B+CONTRIBUTIONS+LOADED+%5D;%5B+COMMAND+CENTER+READY+%5D"/>
+</div>
 
 📊 GitHub Command Center
 
@@ -190,8 +199,6 @@ Stack: Node.js • Express • MongoDB • React
 
 </div>
 
-Note: If the snake image does not appear immediately, it needs the GitHub Actions workflow that generates it. I can give you that workflow too.
-
 🧠 Developer Mode
 
 <div align="center">
@@ -223,6 +230,10 @@ Note: If the snake image does not appear immediately, it needs the GitHub Action
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=21&duration=2400&pause=900&color=00F7FF&center=true&vCenter=true&width=750&lines=%F0%9F%8C%9F+Thanks+for+visiting+my+profile!;%F0%9F%92%BB+Keep+coding.+Keep+building.;%F0%9F%9A%80+Let's+build+something+awesome+together!" />
 
 <br><br>
+
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=900&size=24&duration=1200&pause=300&color=FF00A8&center=true&vCenter=true&repeat=true&width=900&lines=%3C+CODE+%2F%3E;%3C+BUILD+%2F%3E;%3C+DEPLOY+%2F%3E;%3C+REPEAT+%2F%3E;%3C+VIKRAM.SINGH+%2F%3E"/>
+</div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=170&section=footer&animation=twinkling&color=0:00F7FF,40:7F00FF,70:FF00A8,100:00F7A0" width="100%"/>
 
