@@ -6,10 +6,6 @@
 
 </div>
 
-<table>
-<tr>
-<td width="27%" valign="top">
-
 <div align="center">
 
 <!-- Optional: uncomment this if you want your GitHub profile photo here -->
@@ -55,25 +51,28 @@ Web Applications
 Full-Stack Projects
 Developer Tools
 
-</td>
 
-<td width="73%" valign="top">
 
-🌟 About Me
+
 
 <div align="center">
 
+🌟 About Me
+
+<table>
+<tr>
+<td>
+
 🎓 B.Tech CSE Student
-
 💻 Building creative solutions with Full-Stack Web Development
-
 🌱 Always curious about emerging technologies
-
 🎧 Coding sessions powered by good music
-
 🌎 Always learning, always improving, always curious
-
 🤝 Let's connect and build something awesome together!
+
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -182,11 +181,11 @@ Stack: React Node.js Express.js MongoDB
 <div align="center">
 
 <a href="https://github.com/vikramsingh617">
-<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github"/>
+<img src="https://skillicons.dev/icons?i=github" width="58" alt="GitHub"/>
 </a>
-
+&nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/vikramsingh617/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
+<img src="https://skillicons.dev/icons?i=linkedin" width="58" alt="LinkedIn"/>
 </a>
 
 <br><br>
@@ -194,10 +193,6 @@ Stack: React Node.js Express.js MongoDB
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&repeat=true&width=800&lines=Let's+build+something+awesome+%F0%9F%9A%80;Code+%7C+Build+%7C+Deploy+%7C+Repeat"/>
 
 </div>
-
-</td>
-</tr>
-</table>
 
 <div align="center">
 
