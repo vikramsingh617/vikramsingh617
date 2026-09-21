@@ -1,34 +1,55 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2800&pause=900&color=00F7FF&center=true&vCenter=true&width=850&lines=Hey%2C+I'm+Vikram+Singh+%F0%9F%91%8B;B.Tech+CSE+%7C+Full-Stack+Developer+%F0%9F%92%BB;AI%2FML+Enthusiast+%7C+Builder+%F0%9F%A4%96;Turning+Ideas+Into+Real+Projects+%F0%9F%9A%80" />
+<!-- ===================== HERO ===================== -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=VIKRAM%20SINGH&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=CODE%20%E2%80%A2%20CREATE%20%E2%80%A2%20INNOVATE&descAlignY=60&descSize=18&color=0:7F00FF,50:00C6FF,100:00F7A0" width="100%"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=30&duration=2500&pause=700&color=00F7FF&center=true&vCenter=true&repeat=true&width=900&lines=%F0%9F%91%8B+Hey%2C+I'm+Vikram+Singh;B.Tech+CSE+%7C+Full-Stack+Developer;AI%2FML+Enthusiast+%7C+Problem+Solver;Building+%E2%80%A2+Learning+%E2%80%A2+Experimenting+%E2%80%A2+Growing" />
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=230&section=header&text=VIKRAM%20SINGH&fontSize=58&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=FULL-STACK%20%7C%20AI%2FML%20%7C%20BUILDER&descAlignY=62&descSize=19&color=0:0500FF,35:7F00FF,70:00C6FF,100:00F7A0" width="100%"/>
 
 <img src="https://komarev.com/ghpvc/?username=vikramsingh617&style=for-the-badge&color=00f7ff&label=PROFILE+VIEWS" />
 
 <br><br>
 
-<a href="https://github.com/vikramsingh617"><img src="https://img.shields.io/github/followers/vikramsingh617?style=for-the-badge&logo=github&label=Followers&color=181717" /></a>
-<a href="https://github.com/vikramsingh617?tab=repositories"><img src="https://img.shields.io/badge/Projects-Explore-00C6FF?style=for-the-badge&logo=github" /></a>
+<img src="https://img.shields.io/badge/Status-Building%20%26%20Learning-00F7FF?style=for-the-badge&logo=rocket&logoColor=white" />
+<img src="https://img.shields.io/badge/Focus-AI%20%2B%20Full--Stack-7F00FF?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Location-India-FF00A8?style=for-the-badge&logo=googlemaps&logoColor=white" />
+
+<br><br>
+
+<a href="https://github.com/vikramsingh617"><img src="https://img.shields.io/github/followers/vikramsingh617?style=for-the-badge&logo=github&label=FOLLOWERS&color=181717" /></a>
+<a href="https://github.com/vikramsingh617?tab=repositories"><img src="https://img.shields.io/badge/REPOSITORIES-EXPLORE-00C6FF?style=for-the-badge&logo=github" /></a>
+<a href="https://www.linkedin.com/in/vikramsingh617/"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin" /></a>
 
 </div>
 
-🧑‍💻 About Me
+🌌 About Me
+
+<div align="center">
 
 <table>
 <tr>
-<td width="55%">
+<td width="52%">
 
-🎓 B.Tech Computer Science & Engineering
-💻 Full-Stack Web Development
-🤖 AI / Machine Learning
-🚀 Building practical projects
-🌱 Learning modern technologies
-🎯 Growing as a software developer
-⚡ Code + Curiosity + Consistency
+👨‍💻 Who am I?
+
+name: Vikram Singh
+education: B.Tech CSE
+role: Student Developer
+interests:
+  - Full-Stack Development
+  - Artificial Intelligence
+  - Machine Learning
+  - Software Projects
+currently:
+  - Building practical applications
+  - Learning modern technologies
+  - Improving problem solving
+mindset: "Learn → Build → Improve"
 
 </td>
-<td width="45%">
+<td width="48%">
 
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" />
 
@@ -36,50 +57,34 @@
 </tr>
 </table>
 
-💡 I like building things, breaking things, fixing them, and learning from every project.
-
-⚡ What I'm Working On
+</div>
 
 <div align="center">
 
-🚀 Area
-
-🔥 Focus
-
-🌐 Web Development
-
-React • Next.js • Node.js • Express
-
-🤖 AI / ML
-
-Python • PyTorch • TensorFlow • OpenCV
-
-🗄️ Backend
-
-REST APIs • MongoDB • SQL
-
-📊 Projects
-
-AI-powered dashboards & applications
-
-🧠 Learning
-
-APIs • deployment • system design
+🚀 I don't just learn technology — I try to turn what I learn into something people can actually use.
 
 </div>
 
-🛠️ Tech Arsenal
+⚡ Current Mission
 
-💻 Languages
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=2600&pause=800&color=00F7FF&center=true&vCenter=true&width=850&lines=%F0%9F%8C%90+Build+modern+web+applications;%F0%9F%A4%96+Explore+AI+%26+Machine+Learning;%F0%9F%94%A5+Create+better+projects+every+week;%F0%9F%A7%A0+Turn+ideas+into+working+products" />
+
+</div>
+
+🧰 My Tech Universe
+
+💻 Programming Languages
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,ts,html,css,bash&perline=9" />
 </p>
 
-⚛️ Frameworks & Libraries
+⚛️ Frameworks & Development
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind,pytorch,tensorflow&perline=8" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind&perline=8" />
 </p>
 
 🗄️ Databases
@@ -88,58 +93,70 @@ APIs • deployment • system design
 <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,prisma,supabase&perline=6" />
 </p>
 
-🤖 AI / Data
+🤖 AI / Machine Learning
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow&perline=6" />
-<br>
+<br><br>
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
 <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=111111"/>
 </p>
 
-🧰 Tools
+🛠️ Tools & Platforms
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vercel,vscode,notion&perline=8" />
 </p>
 
-🚀 Featured Projects
+🖥️ Workspace
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=windows,linux,kali,apple&perline=6" />
+</p>
+
+🚀 Featured Project
 
 <div align="center">
 
 <a href="https://github.com/vikramsingh617/loanadvisor">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=vikramsingh617&repo=loanadvisor&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=vikramsingh617&repo=loanadvisor&theme=tokyonight&hide_border=true&show_owner=true" />
 </a>
+
+<br><br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2200&pause=900&color=00F7FF&center=true&vCenter=true&width=700&lines=%F0%9F%92%B0+LoanAdvisor;%F0%9F%A4%96+AI-powered+loan+advisory;%F0%9F%93%8A+Interactive+dashboard;%F0%9F%94%90+Authentication;%E2%9A%A1+Modern+web+experience" />
 
 </div>
 
 💰 LoanAdvisor
 
-An AI-focused loan advisory application with a modern dashboard and financial visualization.
+An AI-focused loan advisory project with a modern dashboard, authentication, charts and financial visualization.
 
-Highlights
+Core highlights
 
-📊 Interactive dashboard & charts
+📊 Interactive charts & dashboard
 
-🔐 Authentication flow
+🔐 Authentication
 
 🤖 AI-based advisory / prediction features
 
-📈 Financial data visualization
+📈 Financial visualization
 
-⚡ Modern responsive interface
+⚡ Responsive modern UI
 
 🔗 Repository: https://github.com/vikramsingh617/loanadvisor
 
-🌱 Inclusive Education
+🌱 Other Project
 
-An education-focused web project aimed at creating a more accessible learning ecosystem.
+♿ Inclusive Education
 
-Stack: Node.js Express MongoDB React
+An education-focused project aimed at creating a more accessible learning ecosystem.
 
-📊 GitHub Analytics
+Stack: Node.js • Express • MongoDB • React
+
+📊 GitHub Command Center
 
 <div align="center">
 
@@ -149,19 +166,19 @@ Stack: Node.js Express MongoDB React
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com?user=vikramsingh617&theme=tokyonight&hide_border=true&border_radius=12" width="70%" />
+<img src="https://streak-stats.demolab.com?user=vikramsingh617&theme=tokyonight&hide_border=true&border_radius=15" width="72%" />
 
 </div>
 
-🐍 Contribution Journey
+📈 Contribution Matrix
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=vikramsingh617&bg_color=0d1117&color=00f7ff&line=7f00ff&point=00f7a0&area=true&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=vikramsingh617&bg_color=0d1117&color=00f7ff&line=7f00ff&point=00f7a0&area_color=7f00ff&area=true&hide_border=true&custom_title=Vikram's%20Contribution%20Activity" width="100%" />
 
 </div>
 
-🏆 GitHub Trophies
+🏆 Achievements
 
 <div align="center">
 
@@ -169,15 +186,25 @@ Stack: Node.js Express MongoDB React
 
 </div>
 
-💬 Developer Mindset
+🐍 Contribution Snake
 
 <div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="85%" />
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Contribution Snake" width="95%" />
+
+</div>
+
+Note: If the snake image does not appear immediately, it needs the GitHub Actions workflow that generates it. I can give you that workflow too.
+
+🧠 Developer Mode
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=2300&pause=700&color=7F00FF&center=true&vCenter=true&width=800&lines=while(alive)%7B+learn()%3B+build()%3B+improve()%3B+%7D;%3Ccode%3E+%3D%3E+%3Ccoffee%3E+%3D%3E+%3Cdebug%3E+%3D%3E+%3Crepeat%3E;%F0%9F%94%A5+Consistency+beats+motivation.;%F0%9F%9A%80+Build+something+worth+showing." />
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=7F00FF&center=true&vCenter=true&width=700&lines=Learn+%E2%86%92+Build+%E2%86%92+Break+%E2%86%92+Fix+%E2%86%92+Repeat+%F0%9F%94%A5;Small+progress+every+day+%3D+big+results+%F0%9F%9A%80" />
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="85%" />
 
 </div>
 
@@ -185,17 +212,22 @@ Stack: Node.js Express MongoDB React
 
 <div align="center">
 
-<a href="https://github.com/vikramsingh617"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/vikramsingh617/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://github.com/vikramsingh617">
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/vikramsingh617/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
 </div>
 
 <div align="center">
 
-🌟 Thanks for visiting!
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=21&duration=2400&pause=900&color=00F7FF&center=true&vCenter=true&width=750&lines=%F0%9F%8C%9F+Thanks+for+visiting+my+profile!;%F0%9F%92%BB+Keep+coding.+Keep+building.;%F0%9F%9A%80+Let's+build+something+awesome+together!" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Let's+build+something+awesome+together+%F0%9F%9A%80;Happy+coding!+%F0%9F%92%BB%E2%9C%A8" />
+<br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:00F7FF,50:7F00FF,100:FF00A8&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=170&section=footer&animation=twinkling&color=0:00F7FF,40:7F00FF,70:FF00A8,100:00F7A0" width="100%"/>
 
 </div>
