@@ -59,16 +59,35 @@ Developer Tools
 
 🌟 About Me
 
+</div>
+
+<div align="center">
+
 <table>
 <tr>
 <td>
 
-🎓 B.Tech CSE Student
-💻 Building creative solutions with Full-Stack Web Development
-🌱 Always curious about emerging technologies
-🎧 Coding sessions powered by good music
-🌎 Always learning, always improving, always curious
-🤝 Let's connect and build something awesome together!
+          🎓   B.Tech in Computer Science & Engineering — Lovely Professional University
+
+<br>
+
+          💻   Building creative solutions with Full-Stack Web Development
+
+<br>
+
+          🌱   Always curious about emerging technologies
+
+<br>
+
+          🎧   Coding sessions powered by good music
+
+<br>
+
+          🌎   Always learning, always improving, always curious
+
+<br>
+
+          🤝   Let's connect and build something awesome together!
 
 </td>
 </tr>
