@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=280&section=header&text=VIKRAM%20SINGH&fontSize=62&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=%3C%20FULL-STACK%20DEVELOPER%20%2F%3E&descAlignY=63&descSize=22&color=0:0500FF,25:7F00FF,50:00C6FF,75:00F7FF,100:00F7A0" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&section=header&text=VIKRAM%20SINGH&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=%3C%20FULL-STACK%20DEVELOPER%20%2F%3E&descAlignY=63&descSize=22&color=0:0500FF,25:7F00FF,50:00C6FF,75:00F7FF,100:00F7A0" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=31&duration=1700&pause=350&color=00F7FF&center=true&vCenter=true&repeat=true&width=1050&height=70&lines=%3C%2F%3E+VIKRAM.SINGH;%5B+FULL-STACK+DEVELOPER+%5D;%5B+FRONTEND+%E2%86%94+BACKEND+%E2%86%94+DATABASE+%5D;%5B+BUILD+%E2%86%92+DEBUG+%E2%86%92+DEPLOY+%5D"/>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=31&duration=2800&pause=1200&color=00F7FF&center=true&vCenter=true&repeat=true&width=1050&height=70&lines=%3C%2F%3E+VIKRAM.SINGH;%5B+FULL-STACK+DEVELOPER+%5D;%5B+FRONTEND+%E2%86%94+BACKEND+%E2%86%94+DATABASE+%5D;%5B+BUILD+%E2%86%92+DEBUG+%E2%86%92+DEPLOY+%5D"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=19&duration=1200&pause=220&color=7F00FF&center=true&vCenter=true&repeat=true&width=1000&height=45&lines=%24+whoami+%3E+vikramsingh617;%24+role+%3E+full-stack-developer;%24+stack+%3E+react+%7C+node+%7C+express+%7C+mongodb;%24+status+%3E+building..."/>
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=19&duration=2800&pause=1200&color=7F00FF&center=true&vCenter=true&repeat=true&width=1000&height=45&lines=%24+whoami+%3E+vikramsingh617;%24+role+%3E+full-stack-developer;%24+stack+%3E+react+%7C+node+%7C+express+%7C+mongodb;%24+status+%3E+building..."/>
 
 <br><br>
 
@@ -23,7 +23,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=1150&pause=180&color=00F7A0&center=true&vCenter=true&repeat=true&width=1050&height=45&lines=%5B+SYSTEM+BOOT+%5D+%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88+100%25;%5B+FRONTEND+%5D+ONLINE+%E2%9C%93;%5B+BACKEND+%5D+ONLINE+%E2%9C%93;%5B+DATABASE+%5D+ONLINE+%E2%9C%93;%5B+DEPLOYMENT+%5D+READY+%E2%9C%93"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2800&pause=1200&color=00F7A0&center=true&vCenter=true&repeat=true&width=1050&height=45&lines=%5B+SYSTEM+BOOT+%5D+%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88+100%25;%5B+FRONTEND+%5D+ONLINE+%E2%9C%93;%5B+BACKEND+%5D+ONLINE+%E2%9C%93;%5B+DATABASE+%5D+ONLINE+%E2%9C%93;%5B+DEPLOYMENT+%5D+READY+%E2%9C%93"/>
 
 <br><br>
 
@@ -35,7 +35,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=23&duration=1400&pause=300&color=FF00A8&center=true&vCenter=true&repeat=true&width=800&lines=%3C+ABOUT_ME+%2F%3E;%3C+DEVELOPER_PROFILE+%2F%3E;%3C+VIKRAM_SINGH+%2F%3E"/>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=23&duration=2800&pause=1200&color=FF00A8&center=true&vCenter=true&repeat=true&width=800&lines=%3C+ABOUT_ME+%2F%3E;%3C+DEVELOPER_PROFILE+%2F%3E;%3C+VIKRAM_SINGH+%2F%3E"/>
 
 </div>
 
@@ -43,11 +43,11 @@
 
 <!-- ===================== HERO ===================== -->
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=30&duration=2500&pause=700&color=00F7FF&center=true&vCenter=true&repeat=true&width=900&lines=%F0%9F%91%8B+Hey%2C+I'm+Vikram+Singh;B.Tech+CSE+%7C+Full-Stack+Developer;Web+Developer+%7C+Problem+Solver;Building+%E2%80%A2+Learning+%E2%80%A2+Experimenting+%E2%80%A2+Growing" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=30&duration=2800&pause=1200&color=00F7FF&center=true&vCenter=true&repeat=true&width=900&lines=%F0%9F%91%8B+Hey%2C+I'm+Vikram+Singh;B.Tech+CSE+%7C+Full-Stack+Developer;Web+Developer+%7C+Problem+Solver;Building+%E2%80%A2+Learning+%E2%80%A2+Experimenting+%E2%80%A2+Growing" />
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=230&section=header&text=VIKRAM%20SINGH&fontSize=58&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=FULL-STACK%20%7C%20WEB%20DEVELOPER%20%7C%20BUILDER&descAlignY=62&descSize=19&color=0:0500FF,35:7F00FF,70:00C6FF,100:00F7A0" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=230&section=header&text=VIKRAM%20SINGH&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=FULL-STACK%20%7C%20WEB%20DEVELOPER%20%7C%20BUILDER&descAlignY=62&descSize=19&color=0:0500FF,35:7F00FF,70:00C6FF,100:00F7A0" width="100%"/>
 
 <img src="https://komarev.com/ghpvc/?username=vikramsingh617&style=for-the-badge&color=00f7ff&label=PROFILE+VIEWS" />
 
@@ -108,13 +108,13 @@ mindset: "Learn → Build → Improve"
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=2600&pause=800&color=00F7FF&center=true&vCenter=true&width=850&lines=%F0%9F%8C%90+Build+modern+web+applications;%F0%9F%A4%96+Explore+AI+%26+Machine+Learning;%F0%9F%94%A5+Create+better+projects+every+week;%F0%9F%A7%A0+Turn+ideas+into+working+products" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=2800&pause=1200&color=00F7FF&center=true&vCenter=true&width=850&lines=%F0%9F%8C%90+Build+modern+web+applications;%F0%9F%A4%96+Explore+AI+%26+Machine+Learning;%F0%9F%94%A5+Create+better+projects+every+week;%F0%9F%A7%A0+Turn+ideas+into+working+products" />
 
 </div>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=19&duration=1000&pause=180&color=00F7FF&center=true&vCenter=true&repeat=true&width=1050&height=45&lines=%3C+STACK_MATRIX+%2F%3E;%5B+HTML+%2B+CSS+%2B+JS+%2B+TS+%5D;%5B+REACT+%2B+NEXT+%2B+NODE+%2B+EXPRESS+%5D;%5B+MONGODB+%2B+MYSQL+%2B+POSTGRESQL+%5D;%5B+GIT+%2B+GITHUB+%2B+DOCKER+%2B+VERCEL+%5D"/>
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=19&duration=2800&pause=1200&color=00F7FF&center=true&vCenter=true&repeat=true&width=1050&height=45&lines=%3C+STACK_MATRIX+%2F%3E;%5B+HTML+%2B+CSS+%2B+JS+%2B+TS+%5D;%5B+REACT+%2B+NEXT+%2B+NODE+%2B+EXPRESS+%5D;%5B+MONGODB+%2B+MYSQL+%2B+POSTGRESQL+%5D;%5B+GIT+%2B+GITHUB+%2B+DOCKER+%2B+VERCEL+%5D"/>
 
 <br>
 
@@ -167,12 +167,12 @@ mindset: "Learn → Build → Improve"
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=20&duration=950&pause=160&color=00F7FF&center=true&vCenter=true&repeat=true&width=1050&height=50&lines=%24+npm+run+dev;%24+git+add+.%26%26+git+commit+-m+%22build%22;%24+git+push+origin+main;%24+vercel+deploy;%3E%3E+PRODUCTION+ONLINE"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=20&duration=2800&pause=1200&color=00F7FF&center=true&vCenter=true&repeat=true&width=1050&height=50&lines=%24+npm+run+dev;%24+git+add+.%26%26+git+commit+-m+%22build%22;%24+git+push+origin+main;%24+vercel+deploy;%3E%3E+PRODUCTION+ONLINE"/>
 
 </div>
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=25&duration=1300&pause=250&color=00F7FF&center=true&vCenter=true&repeat=true&width=850&lines=%3C+PROJECTS+%2F%3E;%3C+BUILT+%26+DEPLOYED+%2F%3E;%3C+REAL-WORLD+APPLICATIONS+%2F%3E"/>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=25&duration=2800&pause=1200&color=00F7FF&center=true&vCenter=true&repeat=true&width=850&lines=%3C+PROJECTS+%2F%3E;%3C+BUILT+%26+DEPLOYED+%2F%3E;%3C+REAL-WORLD+APPLICATIONS+%2F%3E"/>
 </div>
 
 🚀 Featured Project
@@ -185,7 +185,7 @@ mindset: "Learn → Build → Improve"
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2200&pause=900&color=00F7FF&center=true&vCenter=true&width=700&lines=%F0%9F%92%B0+LoanAdvisor;%F0%9F%A4%96+Full-stack+loan+advisory;%F0%9F%93%8A+Interactive+dashboard;%F0%9F%94%90+Authentication;%E2%9A%A1+Modern+web+experience" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2800&pause=1200&color=00F7FF&center=true&vCenter=true&width=700&lines=%F0%9F%92%B0+LoanAdvisor;%F0%9F%A4%96+Full-stack+loan+advisory;%F0%9F%93%8A+Interactive+dashboard;%F0%9F%94%90+Authentication;%E2%9A%A1+Modern+web+experience" />
 
 </div>
 
@@ -230,7 +230,7 @@ Stack: Node.js • Express • MongoDB • React
 </div>
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=20&duration=1100&pause=180&color=00F7A0&center=true&vCenter=true&repeat=true&width=850&lines=%5B+CONTRIBUTION+GRID+%5D;%5B+ACTIVITY+STREAM+%5D;%5B+CODING+SIGNALS+DETECTED+%5D"/>
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=20&duration=2800&pause=1200&color=00F7A0&center=true&vCenter=true&repeat=true&width=850&lines=%5B+CONTRIBUTION+GRID+%5D;%5B+ACTIVITY+STREAM+%5D;%5B+CODING+SIGNALS+DETECTED+%5D"/>
 </div>
 
 📈 Contribution Matrix
@@ -260,14 +260,14 @@ Stack: Node.js • Express • MongoDB • React
 Note: If the snake image does not appear immediately, it needs the GitHub Actions workflow that generates it. I can give you that workflow too.
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=1000&pause=180&color=FF00A8&center=true&vCenter=true&repeat=true&width=950&lines=while%28alive%29+%7B+learn%28%29%3B+build%28%29%3B+ship%28%29%3B+%7D;%24+debug+%7C+%24+test+%7C+%24+deploy+%7C+%24+repeat;%3C+FULL-STACK+MODE+%3A+ON+%2F%3E"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=1200&color=FF00A8&center=true&vCenter=true&repeat=true&width=950&lines=while%28alive%29+%7B+learn%28%29%3B+build%28%29%3B+ship%28%29%3B+%7D;%24+debug+%7C+%24+test+%7C+%24+deploy+%7C+%24+repeat;%3C+FULL-STACK+MODE+%3A+ON+%2F%3E"/>
 </div>
 
 🧠 Developer Mode
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=2300&pause=700&color=7F00FF&center=true&vCenter=true&width=800&lines=while(alive)%7B+learn()%3B+build()%3B+improve()%3B+%7D;%3Ccode%3E+%3D%3E+%3Ccoffee%3E+%3D%3E+%3Cdebug%3E+%3D%3E+%3Crepeat%3E;%F0%9F%94%A5+Consistency+beats+motivation.;%F0%9F%9A%80+Build+something+worth+showing." />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=2800&pause=1200&color=7F00FF&center=true&vCenter=true&width=800&lines=while(alive)%7B+learn()%3B+build()%3B+improve()%3B+%7D;%3Ccode%3E+%3D%3E+%3Ccoffee%3E+%3D%3E+%3Cdebug%3E+%3D%3E+%3Crepeat%3E;%F0%9F%94%A5+Consistency+beats+motivation.;%F0%9F%9A%80+Build+something+worth+showing." />
 
 <br><br>
 
@@ -291,20 +291,20 @@ Note: If the snake image does not appear immediately, it needs the GitHub Action
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=21&duration=2400&pause=900&color=00F7FF&center=true&vCenter=true&width=750&lines=%F0%9F%8C%9F+Thanks+for+visiting+my+profile!;%F0%9F%92%BB+Keep+coding.+Keep+building.;%F0%9F%9A%80+Let's+build+something+awesome+together!" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=21&duration=2800&pause=1200&color=00F7FF&center=true&vCenter=true&width=750&lines=%F0%9F%8C%9F+Thanks+for+visiting+my+profile!;%F0%9F%92%BB+Keep+coding.+Keep+building.;%F0%9F%9A%80+Let's+build+something+awesome+together!" />
 
 <br><br>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=27&duration=1100&pause=180&color=00F7FF&center=true&vCenter=true&repeat=true&width=900&lines=%3C+CODE+%2F%3E;%3C+BUILD+%2F%3E;%3C+DEPLOY+%2F%3E;%3C+SCALE+%2F%3E;%3C+REPEAT+%2F%3E"/>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=27&duration=2800&pause=1200&color=00F7FF&center=true&vCenter=true&repeat=true&width=900&lines=%3C+CODE+%2F%3E;%3C+BUILD+%2F%3E;%3C+DEPLOY+%2F%3E;%3C+SCALE+%2F%3E;%3C+REPEAT+%2F%3E"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=18&duration=1200&pause=220&color=00F7A0&center=true&vCenter=true&repeat=true&width=900&lines=%5B+CONNECTION+ESTABLISHED+%5D;%5B+VIKRAM.SINGH+%5D;%5B+FULL-STACK+DEVELOPER+%5D;%5B+END_OF_README+%5D"/>
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=18&duration=2800&pause=1200&color=00F7A0&center=true&vCenter=true&repeat=true&width=900&lines=%5B+CONNECTION+ESTABLISHED+%5D;%5B+VIKRAM.SINGH+%5D;%5B+FULL-STACK+DEVELOPER+%5D;%5B+END_OF_README+%5D"/>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=170&section=footer&animation=twinkling&color=0:00F7FF,40:7F00FF,70:FF00A8,100:00F7A0" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=170&section=footer&animation=fadeIn&color=0:00F7FF,40:7F00FF,70:FF00A8,100:00F7A0" width="100%"/>
 
 </div>
